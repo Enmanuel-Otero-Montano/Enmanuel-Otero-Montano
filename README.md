@@ -1,16 +1,21 @@
-### Hi there 👋
+## ¡ Hola ! 👋
 
-<!--
-**Enmanuel-Otero-Montano/Enmanuel-Otero-Montano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre en **Enmanuel Otero Montano**. Me encanta la tecnología y primer contacto con ella fue a los 5 años cuando por primera vez vi a una consola de video juegos. Desde los 18 años trabajo con la tecnología, especificamente con computadoras, principalmente con el **hardware** y algo de **software**, pero desde hace un tiempo estoy incursionando fuertemente en el **desarrollo de software**, la verdad es que es hermoso y me ha dado la posibilidad de expresar mis ideas, ya que para nada soy bueno en las diferentes esferas del arte 😄.
 
-Here are some ideas to get you started:
+### A día de hoy estoy trabajando con:
+- **HTML**
+- **CSS**
+- **JavaScript**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Estoy aprendiendo:
+- **Phyton**
+- **SQL**
+
+### Estoy trabajando en:
+Hace unos días completé la primera etapa de **Banderas, países y regiones**. Es una aplicación web didáctica e interactiva que he creado, con un alguna característica de video juego. Dejo el link al repositorio (en el readme pueden ver algunas implementaciones futuras) para que conozcan más y al deployment para que la prueben.
+- **Repositorio:** (https://github.com/Enmanuel-Otero-Montano/Juego-de-Banderas)
+- **Deployment:** (https://enmanuel-otero-montano.github.io/Juego-de-Banderas/)
+
+#### Contáctame o Sígueme
+- [**Twitter**](https://twitter.com/Enmanue78366929/ "twitter")
+- [**Linkedin**](https://www.linkedin.com/in/enmanuel-otero-montano// "linkedin")
