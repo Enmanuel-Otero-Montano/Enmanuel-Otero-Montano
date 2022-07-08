@@ -1,6 +1,6 @@
 ## ¡ Hola ! 👋
 
-Mi nombre es **Enmanuel Otero Montano**. Me encanta la tecnología y primer contacto con ella fue a los 5 años cuando por primera vez vi una consola de video juegos. Desde los 18 años trabajo con la tecnología, especificamente con computadoras, principalmente con el **hardware** y algo de **software**, pero desde hace un tiempo estoy incursionando fuertemente en el **desarrollo de software**, la verdad es que es hermoso y me ha dado la posibilidad de expresar mis ideas, ya que para nada soy bueno en las diferentes esferas del arte 😄.
+Mi nombre es **Enmanuel Otero Montano**. Me encanta la tecnología y mi primer contacto con ella fue a los 5 años cuando por primera vez vi una consola de video juegos. Desde los 18 años trabajo con la tecnología, especificamente con computadoras, principalmente con el **hardware** y algo de **software**, pero desde hace un tiempo estoy incursionando fuertemente en el **desarrollo de software**, la verdad es que es hermoso y me ha dado la posibilidad de expresar mis ideas, ya que para nada soy bueno en las diferentes esferas del arte 😄.
 
 ### A día de hoy estoy trabajando con:
 - **HTML**
