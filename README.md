@@ -6,11 +6,14 @@ Mi nombre es **Enmanuel Otero Montano**. Me encanta la tecnología y mi primer c
 - **HTML**
 - **CSS**
 - **JavaScript**
-- **Angular**
+- **Python**
+- **Odoo**
+- **Java**
+- **Spring Boot**
 - **SQL**
 
 ### Estoy aprendiendo:
-- **Python**
+- **Bash**
 
 
 ### Estoy trabajando en:
@@ -19,5 +22,4 @@ Hace unos días completé la primera etapa de **Banderas, países y regiones**. 
 - [**Deployment:**](https://enmanuel-otero-montano.github.io/Juego-de-Banderas/)
 
 #### Contáctame o Sígueme
-- [**Twitter**](https://twitter.com/Enmanue78366929/ "twitter")
 - [**Linkedin**](https://www.linkedin.com/in/enmanuel-otero-montano// "linkedin")
